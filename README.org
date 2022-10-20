@@ -2,5 +2,5 @@
 #+begin_src
 cd /path/to/qmk_firmware/keyboards
 git clone https://github.com/nguyendown/qmk-config cresk
-qmk build -kb cresk/cresk_choc_test -km default
+qmk build -kb cresk/cresk_choc_demo -km default
 #+end_src
