@@ -1,6 +1,6 @@
 {
     "manufacturer": "QMK",
-    "keyboard_name": "cresk_choc_test",
+    "keyboard_name": "cresk_choc_demo",
     "maintainer": "nguyendown",
     "bootloader": "caterina",
     "features": {
